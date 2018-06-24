@@ -17,7 +17,5 @@ TODO:
  - [ ] If the siren is connected, I also need a way to enable/disable alarm mode remotely.  The easiest way I can think of is to send and "alarm off" text message to the phone and have it checking (check the sending number to make sure it came from me or wife).
  - [ ] Re-write to a client/server(service) architecture so remote phones (on WiFi or 4GLTE) can see the status.
  
+ ![layout](https://github.com/LeeDr/AndriodAlarm/blob/master/AndroidAlarm.png)
 
-
-
- *add some screenshots*
