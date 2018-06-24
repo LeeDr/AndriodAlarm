@@ -35,34 +35,6 @@ import android.widget.ToggleButton;
  *
  *
  *
- * https://cloud.google.com/console/project
-
- Project name = Alarm
- Project ID = alarm-leed
-
- Project ID: alarm-leed
- Project Number: 185433612197
- *
- *
- *
- * may not need this
- * Client ID 	185433612197.apps.googleusercontent.com
- Email address 	185433612197@developer.gserviceaccount.com
- *
- *
- *
- *
- * but this IS important!
- *
- * Key for server applications API key 	AIzaSyCkljZXYzHHZC2q_qFPqmAB_Q1Uwfl1xA4
- IPs
-
- 0.0.0.0/0
-
- Activation date 	Feb 25, 2014 7:55 PM
- Activated by 	leed.austex@gmail.com (you)
- *
- *
  *
  *
  */
